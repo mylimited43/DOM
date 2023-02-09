@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(99, 86, 70);
+  }
+
+.green {
+    background-color: rgb(0, 255, 13);
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.big {
+    font-size: 10rem;
+}
